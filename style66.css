@@ -1,0 +1,9 @@
+.border {
+		border: 10px dashed yellow;
+}
+.color {
+		stroke: black;
+		stroke-width: 15;
+		fill-opacity: 10;
+		fill: red;
+}
